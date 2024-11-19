@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://github.com/iamcvbibin/tic-tac-app",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
